@@ -1,0 +1,7 @@
+com\upload\FileUpload.class
+com\upload\Uploadfilewith_Robotclass.class
+stepDefinitions\LoginPage_stepDefinitions.class
+com\upload\ReadPropertiesFileTest.class
+testRunner\Runner.class
+com\upload\FileUpload2.class
+pageObjects\LoginPageObjects.class
